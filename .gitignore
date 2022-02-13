@@ -1,3 +1,4 @@
 env
 scraperLog.log
 test.json
+*__pycache__
